@@ -1,4 +1,4 @@
-{"resume": [{
+{"resume":[{
         "resumeImage1": "https://cdn-images.imagevenue.com/d8/13/83/ME17GCBF_o.png",
         "resumeName": "Muhammad Rajah",
         "profession": "Web Developer",
@@ -29,9 +29,8 @@
         "resumeInfo9": "2023 - 2024",
         "resumeHeading2": "Job Experience",
         "jobEx1": "Sales - Daughtless Dynasty Marketing",
-        "jobEx2": "Administration - Islamic Relief"
-        }],
-        "projects": [{
+        "jobEx2": "Administration - Islamic Relief"}],
+        "projects":[{
             "projects-head": "Projects",
             "card-image1": "https://cdn-images.imagevenue.com/01/e1/1e/ME17GDPY_o.png",
             "proj-card-title1": "Interest Calculator",
@@ -74,9 +73,8 @@
             "proj-card-title6": "Calculator",
             "proj-card-info6": "This calculator accepts the numbers and operations clicked by the user and outputs the answer.",
             "live-link6": "https://effulgent-banoffee-8f84bc.netlify.app/",
-            "github6": "https://github.com/Fireshadow111/fancy-calculator.git"
-        }],
-        "testimonials": [{
+            "github6": "https://github.com/Fireshadow111/fancy-calculator.git"}],
+        "testimonials":[{
             "test-image1": "https://cdn-images.imagevenue.com/46/b0/a9/ME17GECZ_o.jpg",
             "test-head1": "Joel Mukanya",
             "test-text1": "Muhammad is a creative, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
@@ -100,6 +98,4 @@
             "test-image6": "https://cdn-images.imagevenue.com/9f/8a/47/ME17GED1_o.png",
             "test-head6": "Naeema Omar",
             "test-text6": "Rajah is a well-spoken and energetic guy. His competitive nature pushes him to constantly strive for growth and development which makes him a dependable colleague",
-            "test-footer6": "-Colleague"
-        }]
-}
+            "test-footer6": "-Colleague"}]}
