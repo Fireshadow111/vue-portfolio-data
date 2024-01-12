@@ -1,8 +1,8 @@
 {
-  "resume": {
+  "resume": [{
     "resumeImage1": "https://cdn-images.imagevenue.com/d8/13/83/ME17GCBF_o.png"
   },
-  "contactInfo": {
+   {
     "resumeName": "Muhammad Rajah",
     "profession": "Web Developer",
     "contactTitle": "Contact",
@@ -10,7 +10,7 @@
     "location": "Heideveld",
     "email": "muhammadrajah22@gmail.com"
   },
-  "socialLinks": [
+   
     {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/in/muhammad-rajah-a1a00421a/"
@@ -30,9 +30,8 @@
     {
       "name": "Facebook",
       "link": "https://www.facebook.com/muhammad.rajah.716/"
-    }
-  ],
-  "education": [
+    },
+   
     {
       "school": "Life Choices Coding Academy",
       "degree": "Web Development",
@@ -48,8 +47,8 @@
       "degree": "Bachelors Degree in Arabic and Islamic Studies",
       "period": "2023 - 2024"
     }
-  ],
-  "workExperience": [
+  ,
+   
     {
       "position": "Sales",
       "company": "Dauntless Dynasty Marketing"
