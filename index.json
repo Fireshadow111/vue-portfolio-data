@@ -2,7 +2,7 @@
   "resume": {
     "resumeImage1": "https://cdn-images.imagevenue.com/d8/13/83/ME17GCBF_o.png"
   },
-  "contact": [
+  "resumeContact": [
     {
       "resumeName": "Muhammad Rajah",
       "profession": "Web Developer",
@@ -10,6 +10,7 @@
       "number": "067 774 1883",
       "location": "Heideveld",
       "email": "muhammadrajah22@gmail.com",
+
       "socials": [
         {
           "name": "LinkedIn",
@@ -34,6 +35,7 @@
       ]
     }
   ],
+
   "resumeHeading1": "Education",
   "education": [
     {
@@ -62,5 +64,4 @@
       "position": "Administration",
       "company": "Islamic Relief"
     }
-  ]
-}
+  ],
