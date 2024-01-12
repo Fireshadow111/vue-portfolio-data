@@ -1,6 +1,67 @@
-
 {
-            "projects":[
+  "resume": {
+    "resumeImage1": "https://cdn-images.imagevenue.com/d8/13/83/ME17GCBF_o.png"
+  },
+  "contactInfo": {
+    "resumeName": "Muhammad Rajah",
+    "profession": "Web Developer",
+    "contactTitle": "Contact",
+    "number": "067 774 1883",
+    "location": "Heideveld",
+    "email": "muhammadrajah22@gmail.com"
+  },
+  "socialLinks": [
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/muhammad-rajah-a1a00421a/"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/Fireshadow111"
+    },
+    {
+      "name": "WhatsApp",
+      "link": "https://wa.me/+277741883"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/muhammadrajah111/"
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/muhammad.rajah.716/"
+    }
+  ],
+  "education": [
+    {
+      "school": "Life Choices Coding Academy",
+      "degree": "Web Development",
+      "period": "2023 - Present"
+    },
+    {
+      "school": "College of Cape Town",
+      "degree": "NCV IT - level 4",
+      "period": "2019 - 2021"
+    },
+    {
+      "school": "International Peace College",
+      "degree": "Bachelors Degree in Arabic and Islamic Studies",
+      "period": "2023 - 2024"
+    }
+  ],
+  "workExperience": [
+    {
+      "position": "Sales",
+      "company": "Dauntless Dynasty Marketing"
+    },
+    {
+      "position": "Administration",
+      "company": "Islamic Relief"
+    }
+  ],
+
+    
+        "projects":[
 
             {
                     "card-image": "https://cdn-images.imagevenue.com/01/e1/1e/ME17GDPY_o.png",
